@@ -74,3 +74,5 @@ end
 group :development, :test do
   gem "rspec-rails"
 end
+
+gem "react_on_rails", "= 12.4"
