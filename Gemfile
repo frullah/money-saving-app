@@ -77,3 +77,5 @@ end
 
 gem "react_on_rails", "= 12.4"
 gem "mini_racer", platforms: :ruby
+
+gem "webpacker", "~> 5.4"

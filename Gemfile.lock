@@ -244,6 +244,7 @@ DEPENDENCIES
   tzinfo-data
   web-console (>= 4.1.0)
   webdrivers
+  webpacker (~> 5.4)
 
 RUBY VERSION
    ruby 3.0.2p107
