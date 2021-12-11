@@ -75,5 +75,6 @@ group :development, :test do
   gem "rspec-rails"
 end
 
+gem "webpacker", "6.0.0.rc.6"
 gem "react_on_rails", "= 12.4"
 gem "mini_racer", platforms: :ruby
